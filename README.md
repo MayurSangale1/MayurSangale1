@@ -99,23 +99,3 @@ I am a Data Analyst | BI Developer
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" width="50px"/>
   </kbd>
 </p>
-
-
-<h3 align="left">▶ Stats:</h3>
-
-<p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/MayurSangale1?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/MayurSangale1/?style=for-the-badge"/>
-</p>
-<p align="center"><img src="https://badges.pufler.dev/commits/monthly/MayurSangale1"/></p>
-
-</p>
-  </a>
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurSangale1&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MayurSangale1&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MayurSangalee1&theme=holi-theme">
-</p>
