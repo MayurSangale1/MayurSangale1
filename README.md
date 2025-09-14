@@ -35,8 +35,8 @@ I am a Data Analyst | BI Developer
     <img width="30px" src="https://blog.kakaocdn.net/dn/bFqjo9/btrRY5uXsiv/XN32kTRpDNopQ3pKzj7ugk/img.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
-  </kbd>
+<!--     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" /> -->
+  </kbd> 
 
   <kbd>
     <kbd>Frameworks & Libraries</kbd>
@@ -53,7 +53,6 @@ I am a Data Analyst | BI Developer
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <imag width="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
 <!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> -->
   </kbd>
