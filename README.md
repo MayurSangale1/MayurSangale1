@@ -53,8 +53,8 @@ I am a Data Analyst | BI Developer
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> -->
   </kbd>
 
   <kbd>
@@ -62,11 +62,11 @@ I am a Data Analyst | BI Developer
     <br><br>
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="30px"/>
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="30px"/>
-    <img src="https://static.wikia.nocookie.net/logopedia/images/3/35/Looker_Studio_icon.svg/revision/latest/scale-to-width-down/250?cb=20241011212938" width="30px" />
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="30px"/>
+<!--     <img src="https://static.wikia.nocookie.net/logopedia/images/3/35/Looker_Studio_icon.svg/revision/latest/scale-to-width-down/250?cb=20241011212938" width="30px" />
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="30px"/> -->
   </kbd>
 
-  <kbd>
+  <!--<kbd>
     <kbd>Cloud & DevOps</kbd>
     <br><br>
     <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="30px"/>
@@ -74,15 +74,15 @@ I am a Data Analyst | BI Developer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
     <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="30px"/>
-  </kbd>
+ </kbd> -->
 
-  <kbd>
+ <!-- <kbd>
     <kbd>Testing & CI/CD</kbd>
     <br><br>
     <img src="https://datoux.gallerycdn.vsassets.io/extensions/datoux/vscode-pytest-intellisence/0.0.1/1623003313690/Microsoft.VisualStudio.Services.Icons.Default" width="30px"/>
     <img src="https://logos-world.net/wp-content/uploads/2023/12/Jenkins-Symbol.png" width="50px"/>
     <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="30px"/>
-  </kbd>
+  </kbd>-->
 
   <kbd>
     <kbd>ETL & Workflow</kbd>
