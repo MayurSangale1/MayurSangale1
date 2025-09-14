@@ -95,7 +95,7 @@ I am a Data Analyst | BI Developer
     <kbd>Tools</kbd>
     <br><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/>
-    <img src="https://images.icon-icons.com/2429/PNG/512/jira_logo_icon_147274.png" width="30px"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" width="50px"/>
+<!--     <img src="https://images.icon-icons.com/2429/PNG/512/jira_logo_icon_147274.png" width="30px"/> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" width="50px"/> 
   </kbd>
 </p>
