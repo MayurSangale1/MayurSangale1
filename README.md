@@ -8,7 +8,7 @@
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 I am a Data Analyst | BI Developer
-- 🌱 I’m currently learning Generative AI.
+- 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2025 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -53,6 +53,7 @@ I am a Data Analyst | BI Developer
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <imag width="30px" src="https://www.flaticon.com/free-icon/sql-server_5968364" />
 <!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> -->
   </kbd>
