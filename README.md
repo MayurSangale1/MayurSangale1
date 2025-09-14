@@ -53,7 +53,7 @@ I am a Data Analyst | BI Developer
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <imag width="30px" src="https://www.flaticon.com/free-icon/sql-server_5968364" />
+    <imag width="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
 <!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> -->
   </kbd>
